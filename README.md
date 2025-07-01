@@ -81,9 +81,5 @@ Feel free to connect if you have any questions or feedback!
 📧 [chinthavenugopal2003@gmail.com](mailto:chinthavenugopal2003@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/gopalchinta)
 
----
 
-```
 
-Would you like me to commit this directly via terminal commands, or would you prefer to paste it into GitHub manually?
-```
